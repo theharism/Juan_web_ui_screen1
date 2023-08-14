@@ -1010,3 +1010,7 @@ video {
     padding-right: 0;
   }
 }
+
+.widths {
+  height: 120px;
+}
